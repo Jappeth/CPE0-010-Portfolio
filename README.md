@@ -25,7 +25,8 @@ Develop an understanding of data structures and algorithms through practical exe
 ## CILO and Topics
 | Topic | CILO | Hands-On-Activity |
 | :--- | :--- | :--- |
-| Module 1: Introduction to Data Structures and Algorithms | 1. Distinguish the difference among types of data structures <br> 2. Assess the time complexity of algorithms using asymptotic analysis and notation <br> 3. Write C++ code for recursion, class definition, and objects following the language's standard code structure | PRELIM/Hands-on Activity 1.1 Basic C++ Programming |
+| Module 1: Introduction to Data Structures and Algorithms | 1. Distinguish the difference among types of data structures <br> 2. Assess the time complexity of algorithms using asymptotic analysis and notation <br> 3. Write C++ code for recursion, class definition, and objects following the language's standard code structure | [Hands-on Activity 1.1 Basic C++ Programming](PRELIM/Hands-on Activity 1.1 Basic C++ Programming) |
+| Module 2: Arrays, Pointers and Dynamic Memory Allocation | 1. Create code that utilizes static and dynamic memory allocation through the use of pointers and arrays in C++ <br> 2. Solve programming problems using dynamic memory allocation, arrays and pointers| [Hands-on Activity 2.1 Arrays, Pointers and Dynamic Memory Allocation](PRELIM/Hands-on Activity 2.1 Arrays, Pointers and Dynamic Memory Allocation)
 
 
 
