@@ -22,14 +22,23 @@ Develop an understanding of data structures and algorithms through practical exe
 
 [Finals](FINALS)
 
-## CILO and Topics
+### CILO and Topics
+## Prelim
 | Topic | CILO | Hands-On-Activity |
 | :--- | :--- | :--- |
-| Module 1: Introduction to Data Structures and Algorithms | 1. Distinguish the difference among types of data structures <br> 2. Assess the time complexity of algorithms using asymptotic analysis and notation <br> 3. Write C++ code for recursion, class definition, and objects following the language's standard code structure | [Hands-on Activity 1.1](PRELIM/Hands-on%20Activity%201.1%20Basic%20C++%20Programming) |
-| Module 2: Arrays, Pointers and Dynamic Memory Allocation | 1. Create code that utilizes static and dynamic memory allocation through the use of pointers and arrays in C++ <br> 2. Solve programming problems using dynamic memory allocation, arrays and pointers | [Hands-on Activity 2.1](PRELIM/Hands-on%20Activity%202.1%20Arrays,%20Pointers%20and%20Dynamic%20Memory%20Allocation) |
+| Module 1: Introduction to Data Structures and Algorithms | 1. Distinguish the difference among types of data structures <br> 2. Assess the time complexity of algorithms using asymptotic analysis and notation <br> 3. Write C++ code for recursion, class definition, and objects following the language's standard code structure | [Hands-on Activity 1.1 Basic C++ Programming](PRELIM/Hands-on%20Activity%201.1%20Basic%20C++%20Programming) |
+| Module 2: Arrays, Pointers and Dynamic Memory Allocation | 1. Create code that utilizes static and dynamic memory allocation through the use of pointers and arrays in C++ <br> 2. Solve programming problems using dynamic memory allocation, arrays and pointers | [Hands-on Activity 2.1 Arrays, Pointers and Dynamic Memory Allocation](PRELIM/Hands-on%20Activity%202.1%20Arrays,%20Pointers%20and%20Dynamic%20Memory%20Allocation) |
 | Module 3: Linked Lists | 1. Write C++ code for a singly and doubly linked list in C++ <br> 2. Create implementation of lists using the C++ standard template library <br> 3. Solve given problems utilizing linked lists in C++ | [Hands-on Activity 3.1 Linked Lists](PRELIM/Hands-on%20Activity%203.1%20Linked%20Lists) |
 | Module 4: Stacks | 1. Create a stack using the C++ STL <br> 2. Develop C++ code that uses both arrays and linked lists to create a stack <br> 3. Solve problems using an implementation of stack | [Hands-on Activity 4.1 Stacks](PRELIM/Hands-on%20Activity%204.1%20Stacks) |
 | Module 5: Queues | 1. Create queue using C++ STL <br> 2. Develop C++ code for queues that utilize arrays and linked lists for different internal representations <br> 3. Solve problems using queue implementation | [Hands-on Activity 5.1 Queues](PRELIM/Hands-on%20Activity%205.1%20Queues) |
+## Midterm
+| Topic | CILO | Hands-On-Activity |
+| :--- | :--- | :--- |
+| Module 6: Searching Techniques | 1. Create C++ code for searching data using different techniques <br> 2. Solve different problems utilizing appropriate searching techniques in C++ | [Hands-on Activity 6.1 Searching Techniques](MIDTERM/Hands-on%20Activity%206.1%20Searching%20Techniques) |
+| Module 7: Sorting Algorithms Pt 1 | 1. Create C++ code for searching data using different techniques <br> 2. Solve different problems utilizing appropriate searching techniques in C++ | [Hands-on Activity 7.1 Sorting Algorithms Pt1](MIDTERM/Hands-on%20Activity%207.1%20Sorting%20Algorithms%20Pt1) |
+| Module 8: Sorting Algorithms Pt 2 | 1. Create C++ code for implementation of shell, merge, and quick sort <br> 2. Solve given data sorting problems using appropriate basic sorting algorithms | [Hands-on Activity 8.1 Sorting Algorithms Pt2](MIDTERM/Hands-on%20Activity%208.1%20Sorting%20Algorithms%20Pt2) |
+| Module 9: Trees | 1. Explain different terminologies used in association with both Trees and Graphs <br> 2. Create and explain the algorithms for binary tree operations such as insertion, deletion, and searching <br> 3. Demonstrate the declaration of binary tree structures | [Hands-on Activity 9.1 Tree ADT](MIDTERM/Hands-on%20Activity%209.1%20Tree%20ADT) |
+
 
 
 
