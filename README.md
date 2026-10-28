@@ -12,8 +12,7 @@ Technological Institute of the Philippines, Quezon City
 
 ## Objectives
 
-This course portfolio aims to:
-Develop an understanding of data structures and algorithms through practical exercises.Apply problem-solving skills and analyze the time and space complexity of solutions. Document Hands-on Activities (HOA) and Seatwork (SW) across Prelims, Midterms, and Finals.
+This course portfolio aims to develop an understanding of data structures and algorithms through practical exercises, apply problem-solving skills and analyze the time and space complexity of solutions, and document Hands-on Activities and Seatwork across Prelims, Midterms, and Finals.
 
 ## Coursework by Term
 [Prelim](PRELIM)
@@ -22,7 +21,27 @@ Develop an understanding of data structures and algorithms through practical exe
 
 [Finals](FINALS)
 
-## CILO and Topics
+
+##Course Intended Learning Outcome
+
+Upon successful completion of **CPE 010: Data Structures and Algorithms**, students should be able to:
+
+* **CILO 1: Analyze Algorithmic Complexity and Performance**  
+  Assess the efficiency of algorithms by determining their theoretical and experimental time and space complexities using asymptotic notations ($O$, $\Omega$, $\Theta$).
+
+* **CILO 2: Implement Linear and Non-Linear Data Structures**  
+  Construct C++ code for linear structures (*arrays, dynamic memory/pointers, linked lists, stacks, queues*) and non-linear structures (*trees, graphs*) utilizing fundamental operations and standard code practices.
+
+* **CILO 3: Apply Searching, Sorting, and Traversal Techniques**  
+  Select and implement appropriate search algorithms (*linear, binary, hashing*), sorting algorithms (*shell, merge, quick sort*), and graph/tree traversals (*BFS, DFS*) to organize and process data efficiently.
+
+* **CILO 4: Leverage Modern C++ Tools and Parallel Processing**  
+  Utilize the C++ Standard Template Library (STL), multithreading, concurrency, and parallel algorithms to optimize execution speed and resource allocation.
+
+* **CILO 5: Design Engineering Application Solutions**  
+  Design, implement, and evaluate a comprehensive C++ software application that integrates appropriate data structures and algorithmic strategies to solve a real-world engineering problem.
+
+## Topics and ILOs
 ### Prelim
 | Topic | ILO | Hands-On-Activity |
 | :--- | :--- | :--- |
@@ -50,24 +69,4 @@ Develop an understanding of data structures and algorithms through practical exe
 
 
 
-
-
-**Course Intended Learning Outcome**
-
-Upon successful completion of **CPE 010: Data Structures and Algorithms**, students should be able to:
-
-* **CILO 1: Analyze Algorithmic Complexity and Performance**  
-  Assess the efficiency of algorithms by determining their theoretical and experimental time and space complexities using asymptotic notations ($O$, $\Omega$, $\Theta$).
-
-* **CILO 2: Implement Linear and Non-Linear Data Structures**  
-  Construct C++ code for linear structures (*arrays, dynamic memory/pointers, linked lists, stacks, queues*) and non-linear structures (*trees, graphs*) utilizing fundamental operations and standard code practices.
-
-* **CILO 3: Apply Searching, Sorting, and Traversal Techniques**  
-  Select and implement appropriate search algorithms (*linear, binary, hashing*), sorting algorithms (*shell, merge, quick sort*), and graph/tree traversals (*BFS, DFS*) to organize and process data efficiently.
-
-* **CILO 4: Leverage Modern C++ Tools and Parallel Processing**  
-  Utilize the C++ Standard Template Library (STL), multithreading, concurrency, and parallel algorithms to optimize execution speed and resource allocation.
-
-* **CILO 5: Design Engineering Application Solutions**  
-  Design, implement, and evaluate a comprehensive C++ software application that integrates appropriate data structures and algorithmic strategies to solve a real-world engineering problem.
 
