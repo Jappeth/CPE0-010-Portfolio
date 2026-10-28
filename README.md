@@ -22,7 +22,7 @@ This course portfolio aims to develop an understanding of data structures and al
 [Finals](FINALS)
 
 
-##Course Intended Learning Outcome
+## Course Intended Learning Outcome
 
 Upon successful completion of **CPE 010: Data Structures and Algorithms**, students should be able to:
 
