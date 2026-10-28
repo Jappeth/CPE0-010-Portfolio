@@ -13,12 +13,12 @@ Technological Institute of the Philippines, Quezon City
 ## Objectives
 
 This course portfolio aims to:
-
-- Develop an understanding of data structures and algorithms through practical exercises.
-- Apply problem-solving skills and analyze the time and space complexity of solutions.
-- Document Hands-on Activities (HOA) and Seatwork (SW) across Prelims, Midterms, and Finals.
+Develop an understanding of data structures and algorithms through practical exercises.Apply problem-solving skills and analyze the time and space complexity of solutions. Document Hands-on Activities (HOA) and Seatwork (SW) across Prelims, Midterms, and Finals.
 
 ## Coursework by Term
+[Prelim](PRELIM)
+[Midterm](MIDTERM)
+[Finals](FINALS)
 
 ## CILO and Topics
 
